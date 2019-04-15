@@ -144,6 +144,7 @@ const styles = StyleSheet.create({
   both platforms :
     onPress : func
     customStyles: style
+    disableTouch: boolean (if You need to handle touch inside overlay on Your own, ie. if You want to put ScrollView there)
 
 	  
 ```
